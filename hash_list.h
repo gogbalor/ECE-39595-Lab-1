@@ -159,3 +159,5 @@ private:
     /** The node that the iterator is currently pointing to */
     node *iter_ptr;
 };
+
+#endif
