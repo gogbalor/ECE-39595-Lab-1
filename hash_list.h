@@ -159,12 +159,3 @@ private:
     /** The node that the iterator is currently pointing to */
     node *iter_ptr;
 };
-
-void insert(int key, float value)
-{
-    if (hash_list == nullptr) 
-    {
-        head = new
-    }
-}
-#endif
